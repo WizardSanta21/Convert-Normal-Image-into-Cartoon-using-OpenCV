@@ -1,2 +1,2 @@
 # Convert-Normal-Image-into-Cartoon-using-OpenCV
-A simple python code using OpenCV librabry for cartooning an image
+A simple python code using OpenCV library for cartooning an image
